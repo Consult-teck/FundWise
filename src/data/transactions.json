@@ -1,0 +1,50 @@
+[
+  {
+    "id": "t1",
+    "type": "deposit",
+    "description": "Wallet Top-up",
+    "amount": 50000,
+    "date": "2025-05-15",
+    "status": "success"
+  },
+  {
+    "id": "t2",
+    "type": "investment",
+    "description": "Tech Stock Portfolio",
+    "amount": -30000,
+    "date": "2025-05-14",
+    "status": "success"
+  },
+  {
+    "id": "t3",
+    "type": "savings",
+    "description": "Emergency Fund",
+    "amount": -10000,
+    "date": "2025-05-13",
+    "status": "success"
+  },
+  {
+    "id": "t4",
+    "type": "return",
+    "description": "Real Estate Dividend",
+    "amount": 8500,
+    "date": "2025-05-10",
+    "status": "success"
+  },
+  {
+    "id": "t5",
+    "type": "withdrawal",
+    "description": "Bank Withdrawal",
+    "amount": -15000,
+    "date": "2025-05-08",
+    "status": "success"
+  },
+  {
+    "id": "t6",
+    "type": "deposit",
+    "description": "Wallet Top-up",
+    "amount": 100000,
+    "date": "2025-05-01",
+    "status": "success"
+  }
+]

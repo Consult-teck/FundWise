@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "Emergency Fund",
+    "target": 500000,
+    "saved": 120000,
+    "rate": 10,
+    "duration": "12 months",
+    "type": "savings"
+  },
+  {
+    "id": "2",
+    "name": "House Down Payment",
+    "target": 3000000,
+    "saved": 850000,
+    "rate": 12,
+    "duration": "24 months",
+    "type": "savings"
+  },
+  {
+    "id": "3",
+    "name": "Tech Stock Portfolio",
+    "target": 1000000,
+    "invested": 340000,
+    "returns": 15.4,
+    "type": "investment"
+  },
+  {
+    "id": "4",
+    "name": "Real Estate Fund",
+    "target": 2000000,
+    "invested": 750000,
+    "returns": 12.1,
+    "type": "investment"
+  },
+  {
+    "id": "5",
+    "name": "Children Education",
+    "target": 800000,
+    "saved": 210000,
+    "rate": 9,
+    "duration": "36 months",
+    "type": "savings"
+  }
+]
