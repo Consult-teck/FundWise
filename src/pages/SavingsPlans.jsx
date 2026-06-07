@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import initialPlans from '../data/plans.json';
 import { formatCurrency, getProgress } from '../utils/formatCurrency';
 import '../styles/Pages.css';
-import { FiPlus, FiX, FiCalendar, FiPercent, FiTarget } from 'react-icons/fi';
+import { FiPlus, FiX, FiCalendar, FiPercent } from 'react-icons/fi';
 
 const SavingsPlans = () => {
   const [plans, setPlans] = useState(initialPlans);

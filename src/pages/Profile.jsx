@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useAuth } from '../context/AuthContext';
 import '../styles/Pages.css';
-import { FiEdit2, FiSave, FiX, FiCalendar, FiMail, FiPhone, FiShield } from 'react-icons/fi';
+import { FiEdit2, FiSave, FiX, FiMail, FiPhone, FiShield } from 'react-icons/fi';
 import { formatCurrency } from '../utils/formatCurrency';
 
 const Profile = () => {

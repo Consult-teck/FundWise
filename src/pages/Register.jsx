@@ -228,8 +228,8 @@ const Register = () => {
               }}
             >
               By signing up you agree to our{' '}
-              <a href="#">Terms of Service</a> and{' '}
-              <a href="#">Privacy Policy</a>.
+              <a href="/terms" onClick={(e) => e.preventDefault()}>Terms of Service</a> and{' '}
+              <a href="/privacy" onClick={(e) => e.preventDefault()}>Privacy Policy</a>.
             </p>
           </form>
         </div>
