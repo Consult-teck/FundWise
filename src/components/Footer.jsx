@@ -53,7 +53,7 @@ export const Footer = () => (
           {[FiTwitter, FiLinkedin, FiInstagram].map((Icon, i) => (
             <a
               key={i}
-              href="#"
+              href="/terms" onClick={(e) => e.preventDefault()}
               style={{
                 width: 36,
                 height: 36,

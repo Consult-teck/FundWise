@@ -5,7 +5,7 @@ import {
 import plans from '../data/plans.json';
 import { formatCurrency } from '../utils/formatCurrency';
 import '../styles/Pages.css';
-import { FiTrendingUp, FiTrendingDown, FiArrowUpRight } from 'react-icons/fi';
+import { FiTrendingUp } from 'react-icons/fi';
 
 const monthlyReturns = [
   { month: 'Jan', stocks: 12400, realEstate: 7500 },

@@ -133,7 +133,7 @@ const Login = () => {
             </div>
 
             <div style={{ textAlign: 'right', marginTop: -8 }}>
-              <a href="#" style={{ fontSize: 13, color: 'var(--text-muted)' }}>
+              <a href="/terms" onClick={(e) => e.preventDefault()} style={{ fontSize: 13, color: 'var(--text-muted)' }}>
                 Forgot password?
               </a>
             </div>
