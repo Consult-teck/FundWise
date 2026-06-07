@@ -1,7 +1,6 @@
-import { useState } from 'react';
+// import { useState } from 'react';  // Comment it out or delete
 import { Link } from 'react-router-dom';
-import {
-  LineChart, Line, AreaChart, Area, PieChart, Pie, Cell,
+import { AreaChart, Area, PieChart, Pie, Cell,
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
 import { useAuth } from '../context/AuthContext';

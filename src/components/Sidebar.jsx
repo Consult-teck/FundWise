@@ -4,7 +4,6 @@ import '../styles/Sidebar.css';
 import {
   FiGrid,
   FiPieChart,
-  FiDollarSign,
   FiCreditCard,
   FiUser,
   FiSettings,
